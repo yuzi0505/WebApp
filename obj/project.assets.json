@@ -12224,11 +12224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yuzi\\source\\repos\\myTestWeb\\myTestWeb\\myTestWeb.csproj",
+      "projectUniqueName": "F:\\Project\\myTestWeb\\myTestWeb\\myTestWeb.csproj",
       "projectName": "myTestWeb",
-      "projectPath": "C:\\Users\\Yuzi\\source\\repos\\myTestWeb\\myTestWeb\\myTestWeb.csproj",
+      "projectPath": "F:\\Project\\myTestWeb\\myTestWeb\\myTestWeb.csproj",
       "packagesPath": "C:\\Users\\Yuzi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yuzi\\source\\repos\\myTestWeb\\myTestWeb\\obj\\",
+      "outputPath": "F:\\Project\\myTestWeb\\myTestWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
